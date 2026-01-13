@@ -15,7 +15,7 @@ This repository provides the R code used to load, clean, and transform the datas
 
 <h2>📦 Contents</h2>
 <ul>
-  <li><code>script_processing.R</code>: main script implementing the complete data processing pipeline.</li>
+  <li><code>CTDprobes_treatment_finalcode.R</code>: main script implementing the complete data processing pipeline.</li>
   <li>R dependencies (CRAN): <code>readxl</code>, <code>dplyr</code>, <code>tidyr</code>, <code>lubridate</code>, <code>zoo</code>, <code>slider</code>, <code>hms</code>.</li>
   <li>Raw and processed data are hosted in a separate repository:
     <a href="[URL of the data repository]">[Name of the data repository]</a>.
